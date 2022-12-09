@@ -1,6 +1,6 @@
 # Otto-Hardware
 
-## 3d printing
+## 3d
 
 Fusin 360 files, step file and obj files for parts.
 
